@@ -1,6 +1,6 @@
 <html>
 
-<head>This is text</head>
+<title>This is text</title>
 
 
 
